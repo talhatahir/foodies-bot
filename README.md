@@ -1,5 +1,5 @@
 # foodies-bot
-##This is an advanced NodeJS powered Foodbot using Facebook Messenger API.
+## This is an advanced NodeJS powered Foodbot using Facebook Messenger API.
 The bot is linked to a Facebook App 'FoodiesBot' Page-> This Bot can be attached to any page and then act as the 'Chat Guy'.
 
 ## What it does?
